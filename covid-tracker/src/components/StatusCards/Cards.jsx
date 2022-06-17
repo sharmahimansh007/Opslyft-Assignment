@@ -4,6 +4,6 @@ export const Cards = (props) => {
     console.log(props);
     return (
 
-        <h1>Card</h1>
+        <h1>Cards</h1>
     ) 
 }
